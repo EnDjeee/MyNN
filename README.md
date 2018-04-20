@@ -1,5 +1,5 @@
 # MyNN
-This is a project that i did for the programming methodologies course at my university. It's a simplified and limited implementation of a neural network. The detailed specification of this project is presented in the "Progetto Finale – Metodologie di Programmazione – prof. Roberto Navigli.pdf" pdf although is written in italian language.
+This is a project that i made for the programming methodologies course at my university. It's a simplified and limited implementation of a neural network. The detailed specification of this project is presented in the "Progetto Finale – Metodologie di Programmazione – prof. Roberto Navigli.pdf" pdf although is written in italian language.
 # Prerequisites
 - Java 8 
 - Eclipse
